@@ -1,15 +1,21 @@
 ### Hi, My name is Marcus silva 👋
 
+
 - 📚 I am a student of information systems ...
 - 💻 I’m studying to be a developer ...
 - 🌱 I’m studying front-end ...
 - 📫 How to reach me: marvmms@gmail.com ...
+
+##
 
 <div align="center">
   <a href="https://github.com/marcus-21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcus-21&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-21&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
+  
+  ##
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="marcus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="marcus-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
